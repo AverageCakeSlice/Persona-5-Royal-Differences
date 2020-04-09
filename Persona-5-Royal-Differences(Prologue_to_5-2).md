@@ -1,6 +1,5 @@
 
 # Introduction
----
 
 ## Purpose
 
@@ -17,7 +16,6 @@ I also intend for this guide to be as spoiler-free as possible in regards to the
 I played Persona 5 and am currently playing through P5R on a PS4 Pro but have not tried the PS3 version of the game. I completed my first run and New Game+ back-to-back on 11/11/2019 and 1/12/2020 respectively, so the game is still fairly fresh on my mind. I spent ~200 hours on the base game, a good chunk of which was devoted to optimizing a perfect roster of personas for Joker in NG+. I have gotten the Platinum Trophy for Persona 5.
 
 # Changes (Prologue to 5/2)
----
 
 ## **Technical**
 
@@ -115,13 +113,11 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * Aside from the infamous first walk to school, most interactions that involve going somewhere new or following another character will be more guided, preventing the player from getting lost (like when Ryuji shows you the way to the airsoft shop for the first time)
 
 # Disclaimer
----
 
 I have tried to document all of the changes that I have noticed from the base game, but there is a good chance that I have overlooked things and/or have noticed something "new" that was actually in the base game.  
  
 Feel free to point out any errors in this post or contribute via the Github link, as this is intended to be a living document with frequent updates.
 
 # Contributors
----
 
 I made this post by myself to hopefully motivate the community to help with documenting changes between the two games. If you would like to contribute, feel free to submit any changes at [this github repository](https://github.com/AverageCakeSlice/Persona-5-Royal-Differences), or, for small changes, you can to message me or leave a comment.
