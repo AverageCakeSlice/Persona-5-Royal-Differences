@@ -1,4 +1,15 @@
-Notes: Played on a PS4 Pro, finished the base game and ng+ platinum trophy back-to-back on 11/11/2019 and 1/12/2020 respectively, previous game is still fairly fresh on my mind, spent ~200 hours on the base game, a good chunk of which was devoted to optimizing a perfect roster of personas for Joker in NG+.
+
+# Introduction
+
+## Welcome
+
+## Notes
+
+ Played on a PS4 Pro, finished the base game and ng+ platinum trophy back-to-back on 11/11/2019 and 1/12/2020 respectively, previous game is still fairly fresh on my mind, spent ~200 hours on the base game, a good chunk of which was devoted to optimizing a perfect roster of personas for Joker in NG+.
+
+# Changes
+
+
 
 * Most if not all of the textures and models in the game appear to have been updated, and look a lot cleaner now that the game is not limited to the PS3's comparatively low texture cache size.
 * Less aliasing (read: "jagged edges") on in-game models and geometry (not sure if this is due to the PS4 Pro's  4k upscaling or an anti-aliasing post processing effect.
@@ -45,3 +56,13 @@ Notes: Played on a PS4 Pro, finished the base game and ng+ platinum trophy back-
 * The Shibuya Diner on central street has been renamed to "Bikkuri Boy" and is closed until May.
 * The bathhouse in Yongen-Jaya is closed until an unspecified later date.
 * The batting cages now offer different activities based on the time of day. At night, you can swing as much as you want, but there are no prizes. Hitting three home runs at night earns you a coupon for a free daytime session.
+
+# Disclaimer
+
+I have tried to document all of the changes that I have noticed from the base game, but there is a good chance that I have overlooked things and/or have noticed something "new" that was actually in the base game.  
+ 
+Feel free to point out any errors in this post as it is intended to be a living document with frequent updates made 
+
+# Links
+
+I made this post to hopefully get the community to help with documenting changes between the two games. All of the markdown 
