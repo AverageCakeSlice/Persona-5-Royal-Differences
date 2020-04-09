@@ -41,6 +41,7 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 ### Story & Cutscenes
 
 * A number of characters that show up later in the game make brief cameos and show up in various places around Tokyo much earlier than they did in the base game.
+* >!Kamoshida can now be seen walking around the school after 4/18 and can be talked to for some more verbal abuse.!<
 * >!The prologue also has a new in-engine cutscene that introduces Kasumi Yoshizawa.!<
 * >!On 4/12, there is a new interactive cutscene that introduces the protagonist to Kasumi for the first time during a subway ride to school.!<
 * >!On 4/18, there is another interactive cutscene with Kasumi and Kawakami.!<
@@ -67,6 +68,7 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * You can now sit and reflect on the toilet in LeBlanc, which will give you hints as to how close you are to improving each of your social stats.
 * Cleaning up the bookshelf in your room on 4/18 or later will reward you with a few new books to read.
 * Cleaning out the rest of your room on 4/18 or later will also give you a CRT TV, although it does not include a tuner so you cannot receive TV blurbs from your room.
+* The CRT TV is now replaced with a DVD player at the secondhand shop.
 * I believe this was in the previous game, but there is now a tutorial that points out that you can solve crossword puzzles at the far table (near the restroom) at LeBlanc without causing time to progress.
 
 ### Palaces
@@ -92,6 +94,8 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 ### Confidants
 
 * Tae Takemi's voice actress has been changed from Kirsten Potter to Abby Trott (who also voices Annette in Fire Emblem: Three Houses, one of my favorite VA's in the game)
+* Some of the confidant rank-up cutscenes have either had new dialog added, or have been overhauled completely.
+* Some confidant abilities have been altered, replaced, or shuffled around to unlock at different ranks than before. 
 
 ### Dialog & UI
 
@@ -107,6 +111,8 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * There is now a new "Order Obtained" tab under the inventory interface that sorts items from newest to oldest.
 * There is no longer an "Urgent" category of infiltration tools (as of 4/17). These have been grouped into the "Palace" category of tools. 
 * Pressing the touch pad now does more than just showing what other players have done on the same day as you (though that is still an option). It can bring up Assist Commands, which allow you to view recommendations on which confidant you should spend time with, view suggestions for which activities to do, and quickly travel to the hideout with a single button press.
+* There are now minimap icons for confidants.
+* Confidant abilities that carry over from the previous game now have more descriptive text. (i.e. Ryuji's "Punk Talk" ability now specifies that it only works on _upbeat_-type shadows.)
 
 ### Miscellaneous QoL
 
