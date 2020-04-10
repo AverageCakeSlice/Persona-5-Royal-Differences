@@ -13,7 +13,7 @@ I also intend for this guide to be as spoiler-free as possible in regards to the
 
 ## About the author
 
-I played Persona 5 and am currently playing through P5R on a PS4 Pro but have not tried the PS3 version of the game. I completed my first run and New Game+ back-to-back on 11/11/2019 and 1/12/2020 respectively, so the game is still fairly fresh on my mind. I spent ~200 hours on the base game, a good chunk of which was devoted to optimizing a perfect roster of personas for Joker in NG+. I have gotten the Platinum Trophy for Persona 5.
+I played Persona 5 and am currently playing through P5R on a PS4 Pro but have not tried the PS3 version of the game. I completed my first run and New Game+ back-to-back on 11/11/2019 and 1/12/2020 respectively, so the game is still fairly fresh on my mind. I spent ~250 hours on the base game, a good chunk of which was devoted to optimizing a perfect roster of personas for Joker in NG+. I have gotten the Platinum Trophy for Persona 5.
 
 # Changes (Prologue to 5/2)
 
@@ -40,12 +40,12 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 
 ### Story & Cutscenes
 
-* A number of characters that show up later in the game make brief cameos and show up in various places around Tokyo much earlier than they did in the base game.
+* >!A number of characters that show up later in the game make brief cameos and show up in various places around Tokyo much earlier than they did in the base game.!<
 * >!Kamoshida can now be seen walking around the school after 4/18 and can be talked to for some more verbal abuse.!<
 * >!The prologue also has a new in-engine cutscene that introduces Kasumi Yoshizawa.!<
 * >!On 4/12, there is a new interactive cutscene that introduces the protagonist to Kasumi for the first time during a subway ride to school.!<
 * >!On 4/18, there is another interactive cutscene with Kasumi and Kawakami.!<
-* The anime cutscenes still look like hot garbage.
+* The anime cutscenes are still hot garbage.
 
 ### Daily Life
 
@@ -61,25 +61,32 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * There is a new Sports Store in the underground mall that sells some new consumables, accessories, and (presumably) confidant gifts for Ryuji. This store replaces the record label shop.
 * A few of the shops in the underground mall now sell male confidant gifts.
 * The Shibuya Diner on central street has been renamed to "Bikkuri Boy" and is closed until May.
-* The bathhouse in Yongen-Jaya is closed until an unspecified later date.
 * The batting cages now offer different activities based on the time of day. At night, you can swing as much as you want, but there are no prizes. Hitting three home runs at night earns you a coupon for a free daytime session.
 * You can now read books in the evenings at the counter at LeBlanc.
 * Some books now have a prerequisite Knowledge level in order to read them. 
+* Studying at one of the booths in LeBlanc during bad weather will now increase the amount of knowledge points gained.
 * You can use the cleaning tools in the restroom of LeBlanc to improve your Kindness stat during the evenings.
 * You can now sit and reflect on the toilet in LeBlanc, which will give you hints as to how close you are to improving each of your social stats.
 * Cleaning up the bookshelf in your room on 4/18 or later will reward you with a few new books to read.
 * Cleaning out the rest of your room on 4/18 or later will also give you a CRT TV, although it does not include a tuner so you cannot receive TV blurbs from your room.
 * The CRT TV is now replaced with a DVD player at the secondhand shop.
 * I believe this was in the previous game, but there is now a tutorial that points out that you can solve crossword puzzles at the far table (near the restroom) at LeBlanc without causing time to progress.
+* You can now explore Yongen-Jaya at night on 4/21 instead of 4/22.
 
 ### Palaces
 
 * The prologue sequence at Sae Nijima's casino now has a tutorial sequence that shows the player how to use the grappling hook.
+* Individual party members will now occasionally have things to say when in a safe room.
+* Morgana gives you a few starter items and infiltration tools when officially infiltrating Kamoshida's palace for the first time after 4/18.
+* You will not be able to snap to cover to hide yourself until about halfway through the first palace.
 
 ### Combat
 
 * Guns now replenish all ammo after each fight, the rationale (according to Morgana) is that Shadows will be expecting you to come at them fully loaded. The gun tutorial fight in Kamoshida's palace now has a second encounter to show off this new change.
 * _Take Over_ now plays during ambush attacks instead of _Last Surprise_. _Last Surprise_ will still play during normal encounters and enemy ambushes.
+* Baton passes are no longer linked to confidant ranks and can be used as soon as 4/18.
+* Baton pass bonuses now stack for each consecutive pass.
+* Performing a baton pass four times will now allow the final party member to use a skill without consuming any SP or HP. 
 
 ### Items & Equipment
 
@@ -91,11 +98,16 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 ### Personas & The Velvet Room
 
 * There are some dialog choices in a few of the initial conversations with Igor that require Guts to be leveled a bit in order to say them. I do not recall if these were in the base game or not.
+* There is a unique appearance for the Velvet Room loading screens.
+* You are no longer forced to execute Arsene during the fusion tutorial if you have already captured other personas.
+* There are quite a few new personas that have been added.
+* Some personas have had their arcanas changed.
 
 ### Confidants
 
 * Tae Takemi's voice actress has been changed from Kirsten Potter to Abby Trott (who also voices Annette in Fire Emblem: Three Houses, one of my favorite VA's in the game)
-* Some of the confidant rank-up cutscenes have either had new dialog added, or have been overhauled completely.
+* Some of the confidant cutscenes have either had new dialog added, or have been overhauled completely.
+* Most of the confidant cutscenes now give more conversation opportunities to gain points towards the next rank-up.
 * Some confidant abilities have been altered, replaced, or shuffled around to unlock at different ranks than before. 
 
 ### Dialog & UI
@@ -111,9 +123,14 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * Tutorial pop-ups now allow you to go back-and-forth between sections using the left and right buttons on the d-pad.
 * There is now a new "Order Obtained" tab under the inventory interface that sorts items from newest to oldest.
 * There is no longer an "Urgent" category of infiltration tools (as of 4/17). These have been grouped into the "Palace" category of tools. 
+* In addition to sorting by Aracana and Level, you can now sort the Persona Compendium alphabetically.
+* The Persona compendium now has a mask icon next to any personas that you already have in your stock. 
+* There is now a "I need to speak with Igor" option if you accidentally back out of the persona fusion/itemization menu.
 * Pressing the touch pad now does more than just showing what other players have done on the same day as you (though that is still an option). It can bring up Assist Commands, which allow you to view recommendations on which confidant you should spend time with, view suggestions for which activities to do, and quickly travel to the hideout with a single button press.
 * There are now minimap icons for confidants.
 * Confidant abilities that carry over from the previous game now have more descriptive text. (i.e. Ryuji's "Punk Talk" ability now specifies that it only works on _upbeat_-type shadows.)
+* Pressing R2 on a piece of equipment that has a passive ability or modifier will show a more detailed description of said effect.
+* There is now a new effect that indicates when a party member has been powered-up by a baton pass. It will change color from red->yellow->blue for each successive pass.
 
 ### Miscellaneous QoL
 
