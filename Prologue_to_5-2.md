@@ -84,7 +84,9 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * Shadows have new lines of dialog that they will occasionally say when wandering around.
 * Treasure chests now make a glittery sound effect to let you know that one is nearby.
 * There are new visual and audio effects on safe room doors that make them more obvious.
-
+* Many of the puzzles have been modified and some new ones have been added.
+* The grappling hook will now allow you to access new areas in palaces where hidden pathways or treasure might be found.
+* Will Seeds are new collectables that can be found in each palace. Finding one will restore a little bit of SP to the party, and finding all three of a palaces Will Seeds will reward the player with a unique accessory.
 
 ### Combat
 
@@ -94,6 +96,8 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * Baton pass bonuses now stack for each consecutive pass.
 * Performing a baton pass four times in a row will now allow the final party member to use a skill without consuming any SP or HP.
 * Enemies in each encounter seem to be much less homogenous than in the base game, possibly to encourage the player to take advantage of baton passes.
+* Savage enemies are a new variation of regular enemies that have to be damaged somewhat before the player can perform a Hold Up.
+* Disaster Shadows are a new type of enemy that will only counterattack if attacked by the player first. They can also occasionally perform follow-up attacks. Upon death, they will drop an item and explode, damaging any other shadows. The amount of collateral damage that they do is based on the amount of "overflow" damage that is done to them by the player when they die. If they die due to reflected damage or Despair, they will not explode or drop any items.
 
 ### Items & Equipment
 
@@ -101,6 +105,8 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * Crafting infiltration tools during bad weather will now allow you to make an additional tool.
 * The "Stealthanol" infiltration tool has been replaced by "Calming Aroma" which seems to have the same effect (lowers security level). 
 * The "Element Set" infiltration tool has been broken down into it's four component items (Moltov Cocktail, Freeze Spray, Stun Gun, and Air Cannon)
+* Some accessories now have bonus skills attached to them, which can be used by any persona that the player has equipped.
+* If you find an item in a chest that is stronger than the one currently equipped on Joker or a party member, they will prompt you to let them equip it automatically.
 
 ### Personas & The Velvet Room
 
@@ -108,7 +114,7 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * There is a unique appearance for the Velvet Room loading screens.
 * You are no longer forced to execute Arsene during the fusion tutorial if you have already captured other personas.
 * There are quite a few new personas that have been added.
-* Some personas have had their arcanas changed.
+* Some personas have had their arcanas changed, and there are now a couple of new arcanas.
 
 ### Confidants
 
@@ -138,6 +144,7 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * Confidant abilities that carry over from the previous game now have more descriptive text. (i.e. Ryuji's "Punk Talk" ability now specifies that it only works on _upbeat_-type shadows.)
 * Pressing R2 on a piece of equipment that has a passive ability or modifier will show a more detailed description of said effect.
 * There is now a new effect that indicates when a party member has been powered-up by a baton pass. It will change color from red->yellow->blue for each successive pass.
+* During combat, there are new status indicators by a shadow's name that show all of their current buffs and debuffs.
 * Instead of just auto-healing the group, pressing square while in a palace now gives the player the option to quickly use some common infiltration tools like smokescreens, Goho-M's, and Calming Aromas.
 * You can now target specific enemies and points of cover by using the d-pad while hiding. 
 * Map scrolling speed has been increased significantly.
@@ -155,4 +162,4 @@ Feel free to point out any errors in this post or contribute via the Github link
 
 # Contributors
 
-I made this post by myself to hopefully motivate the community to help with documenting changes between the two games. If you would like to contribute, feel free to submit any changes at [this github repository](https://github.com/AverageCakeSlice/Persona-5-Royal-Differences), or, for small changes, you can to message me or leave a comment.
+I made this post by myself to hopefully motivate the community to help with documenting changes between the two games. If you would like to contribute, feel free to submit any changes at [this github repository](https://github.com/AverageCakeSlice/Persona-5-Royal-Differences), or, for small changes, feel free to message me or leave a comment. You can also report innacuracies or missing information through Github's issue tracker if you are not familiar with how Git/Github works.
