@@ -1,6 +1,6 @@
 
 # Introduction
----
+
 ## Purpose
 
 I wanted to create a comprehensive list of every last change I could find between the old game and the new game both to help players discover things that they may have missed, and to give people making walkthroughs or optimal daily guides an outline that will save them some time when writing up their own material.
