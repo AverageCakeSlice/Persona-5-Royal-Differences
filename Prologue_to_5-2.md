@@ -1,5 +1,6 @@
 
 # Introduction
+---
 
 ## Purpose
 
@@ -18,7 +19,7 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 # Changes (Prologue to 5/2)
 ---
 
-## **Technical**
+## ***Technical***
 
 ### Graphics & Performance
 
@@ -38,15 +39,15 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * There seem to be quite a few more ambient sound effects that weren't in the base game (like clanking chains/cages in Kamoshida's palace), but I'm mostly playing with headphones now, so I could just be noticing them more.
 * There are 20-30 new songs that have been added to the soundtrack.
 
-## **Gameplay**
+## ***Gameplay***
 
 ### Story & Cutscenes
 
-* A number of characters that show up later in the game make brief cameos and show up in various places around Tokyo much earlier than they did in the base game.
-* Kamoshida can now be seen walking around the school after 4/18 and can be talked to for some more verbal abuse.
-* The prologue also has a new in-engine cutscene that introduces Kasumi Yoshizawa.
-* On 4/12, there is a new interactive cutscene that introduces the protagonist to Kasumi for the first time during a subway ride to school.!<
-* On 4/18, there is another interactive cutscene with Kasumi and Kawakami.
+* >!A number of characters that show up later in the game make brief cameos and show up in various places around Tokyo much earlier than they did in the base game.!<
+* >!Kamoshida can now be seen walking around the school after 4/18 and can be talked to for some more verbal abuse.!<
+* >!The prologue also has a new in-engine cutscene that introduces Kasumi Yoshizawa.!<
+* >!On 4/12, there is a new interactive cutscene that introduces the protagonist to Kasumi for the first time during a subway ride to school.!<
+* >!On 4/18, there is another interactive cutscene with Kasumi and Kawakami.!<
 * The anime cutscenes are still hot garbage.
 
 ### Daily Life
@@ -172,10 +173,14 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * Aside from the infamous first walk to school, most interactions that involve going somewhere new or following another character will be more guided, preventing the player from getting lost (like when Ryuji shows you the way to the airsoft shop for the first time)
 
 # Disclaimer
+---
 
 I have tried to document all of the changes that I have noticed from the base game, but there is a good chance that I have overlooked things and/or have noticed something "new" that was actually in the base game.
 
+Feel free to point out any errors in this post or contribute via the Github link, as this is intended to be a living document with frequent updates.
+
 # Contributors
+---
 
 u/Fluxriflex
 u/TenebrisTempestas
