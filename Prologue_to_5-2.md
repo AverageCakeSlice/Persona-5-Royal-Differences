@@ -67,7 +67,6 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * A few of the shops in the underground mall now sell male confidant gifts.
 * The Shibuya Diner on central street has been renamed to "Bikkuri Boy" and is closed until May.
 * The batting cages now offer different activities based on the time of day. At night, you can swing as much as you want, but there are no prizes. Hitting three home runs at night earns you a coupon for a free daytime session.
-* You can now read books in the evenings at the counter at LeBlanc.
 * Some books now have a prerequisite Knowledge level in order to read them. 
 * Studying at one of the booths in LeBlanc during bad weather will now increase the amount of knowledge points gained.
 * You can use the cleaning tools in the restroom of LeBlanc to improve your Kindness stat during the evenings.
@@ -187,7 +186,8 @@ Feel free to point out any errors in this post or contribute via the Github link
 u/Fluxriflex,  
 u/TenebrisTempestas,  
 u/kn0bbulo,  
-u/IndigoGamma  
+u/IndigoGamma,  
+u/heliphael  
 
  If you would like to contribute, feel free to submit any changes at [this GitHub repository](https://github.com/AverageCakeSlice/Persona-5-Royal-Differences), or, for small changes, feel free to message me or leave a comment. You can also report innacuracies or missing information through GitHub's issue tracker if you are not familiar with how Git works.
 
