@@ -105,6 +105,9 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * Enemies in each encounter seem to be much less homogenous than in the base game, possibly to encourage the player to take advantage of baton passes.
 * Savage enemies are a new variation of regular enemies that have to be damaged somewhat before the player can perform a Hold Up.
 * Disaster Shadows are a new type of enemy that will only counterattack if attacked by the player first. They can also occasionally perform follow-up attacks. Upon death, they will drop an item and explode, damaging any other shadows. The amount of collateral damage that they do is based on the amount of "overflow" damage that is done to them by the player when they die. If they die due to reflected damage or Despair, they will not explode or drop any items.
+* Asking a shadow to join you when you already have one of them in your stock now grants extra experience to the persona in your stock.
+* Asking a shadow you already have in your stock will usually yeild better rewards. Shadows in your compendium but not in your stock will ask to join you first before giving you money or items.
+* Items gained through negotiation vary from enemy to enemy; they have fixed common and rare drops (common being something like a Life Stone, while rare might net you a Balm of Life). These can also be stolen using Joker's Pickpocket ability from Magician Rank 5.
 
 ### Items & Equipment
 
@@ -176,3 +179,10 @@ I have tried to document all of the changes that I have noticed from the base ga
 # Contributors
 
 u/Fluxriflex
+u/kn0bbulo
+u/TenebrisTempestas
+u/IndigoGamma
+
+ If you would like to contribute, feel free to submit any changes at this github repository, or, for small changes, feel free to message me or leave a comment. You can also report innacuracies or missing information through Github's issue tracker if you are not familiar with how Git works.
+
+ Thank you so much for reading!
