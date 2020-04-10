@@ -71,8 +71,10 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * Cleaning up the bookshelf in your room on 4/18 or later will reward you with a few new books to read.
 * Cleaning out the rest of your room on 4/18 or later will also give you a CRT TV, although it does not include a tuner so you cannot receive TV blurbs from your room.
 * The CRT TV is now replaced with a DVD player at the secondhand shop.
+* Scarlet (the DVD rental shop) now requires you to pay a ¥4800 annual membership fee that allows you to rent any DVD you want for an unlimited period of time at no cost. You are only able to have one DVD rented out at a time.
 * I believe this was in the previous game, but there is now a tutorial that points out that you can solve crossword puzzles at the far table (near the restroom) at LeBlanc on certain days without causing time to progress.
 * You can now explore Yongen-Jaya at night on 4/21 instead of 4/22.
+* After exploring the Metaverse, you can now perform activities within LeBlanc and your room, even without Kawakami's confidant bonuses.
 
 ### Palaces
 
@@ -87,6 +89,7 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * Many of the puzzles have been modified and some new ones have been added.
 * The grappling hook will now allow you to access new areas in palaces where hidden pathways or treasure might be found.
 * Will Seeds are new collectables that can be found in each palace. Finding one will restore a little bit of SP to the party, and finding all three of a palaces Will Seeds will reward the player with a unique accessory.
+* With the inclusion of the Will Seeds and grappling hook, a number of areas in each palace have been changed or added.
 
 ### Combat
 
@@ -107,6 +110,7 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * The "Element Set" infiltration tool has been broken down into it's four component items (Moltov Cocktail, Freeze Spray, Stun Gun, and Air Cannon)
 * Some accessories now have bonus skills attached to them, which can be used by any persona that the player has equipped.
 * If you find an item in a chest that is stronger than the one currently equipped on Joker or a party member, they will prompt you to let them equip it automatically.
+* The home shopping channel on Sundays now offers bundles of a variety of items, rather than a single item. You will now have to choose between different options. Keep in mind that you can only purchase one and will miss out on the other, so choose carefully!
 
 ### Personas & The Velvet Room
 
@@ -114,7 +118,9 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * There is a unique appearance for the Velvet Room loading screens.
 * You are no longer forced to execute Arsene during the fusion tutorial if you have already captured other personas.
 * There are quite a few new personas that have been added.
-* Some personas have had their arcanas changed, and there are now a couple of new arcanas.
+* Some personas have had their arcana changed, and there are now a couple of new arcana.
+* After you have officially infiltrated Kamoshida's palace for the first time, you will be able to access Challenge Battles in the Velvet Room by speaking to Justine.
+* Challenge battles allow you to earn rewards through battles that focus on specific mechanics like Baton Passes or Technical damage, battles that test your endurance, or battles with persona users from previous games.
 
 ### Confidants
 
@@ -148,6 +154,7 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * Instead of just auto-healing the group, pressing square while in a palace now gives the player the option to quickly use some common infiltration tools like smokescreens, Goho-M's, and Calming Aromas.
 * You can now target specific enemies and points of cover by using the d-pad while hiding. 
 * Map scrolling speed has been increased significantly.
+* Palace maps now have an indicator that keeps track of what Will Seeds you have collected so far.
 * The battle summary screen animations have been sped up significantly.
 
 ### Miscellaneous QoL
