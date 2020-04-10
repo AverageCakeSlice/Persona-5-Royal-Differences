@@ -12,6 +12,8 @@ This list is intended to document changes on a semi-specific level. I am simply 
   
 I also intend for this guide to be as spoiler-free as possible in regards to the story, so even though I am writing down all the new things I notice, I will leave information about cutscenes and story elements as vague as I can so as not to ruin the experience for anyone.
 
+To keep things maintainable, I have broken up the list up into logical date spans from the last deadline of the previous palace to the deadline for the next palace; the first list covers the prologue to the deadline for Kamoshida's palace, the second from the day after Kamoshida's deadline to Madarame's deadline, and so on and so forth.
+
 ## About the author
 
 I played Persona 5 and am currently playing through P5R on a PS4 Pro but have not tried the PS3 version of the game. I completed my first run and New Game+ back-to-back on 11/11/2019 and 1/12/2020 respectively, so the game is still fairly fresh on my mind. I spent ~250 hours on the base game, a good chunk of which was devoted to optimizing a perfect roster of personas for Joker in NG+. I have gotten the Platinum Trophy for Persona 5.
