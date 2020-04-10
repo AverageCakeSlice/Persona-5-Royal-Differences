@@ -100,7 +100,6 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * Guns now replenish all ammo after each fight, the rationale (according to Morgana) is that Shadows will be expecting you to come at them fully loaded. The gun tutorial fight in Kamoshida's palace now has a second encounter to show off this new change.
 * _Take Over_ now plays during ambush attacks instead of _Last Surprise_. _Last Surprise_ will still play during normal encounters and enemy ambushes.
 * Baton passes are no longer linked to confidant ranks and can be used as soon as 4/18.
-* Baton pass bonuses now stack for each consecutive pass.
 * Performing a baton pass four times in a row will now allow the final party member to use a skill without consuming any SP or HP.
 * Enemies in each encounter seem to be much less homogenous than in the base game, possibly to encourage the player to take advantage of baton passes.
 * Savage enemies are a new variation of regular enemies that have to be damaged somewhat before the player can perform a Hold Up.
@@ -180,6 +179,7 @@ I have tried to document all of the changes that I have noticed from the base ga
 
 u/Fluxriflex
 u/TenebrisTempestas
+u/kn0bbulo
 u/IndigoGamma
 
  If you would like to contribute, feel free to submit any changes at this github repository, or, for small changes, feel free to message me or leave a comment. You can also report innacuracies or missing information through Github's issue tracker if you are not familiar with how Git works.
