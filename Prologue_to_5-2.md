@@ -182,10 +182,10 @@ Feel free to point out any errors in this post or contribute via the Github link
 # Contributors
 ---
 
-u/Fluxriflex
-u/TenebrisTempestas
-u/kn0bbulo
-u/IndigoGamma
+u/Fluxriflex,  
+u/TenebrisTempestas,  
+u/kn0bbulo,  
+u/IndigoGamma,  
 
  If you would like to contribute, feel free to submit any changes at this github repository, or, for small changes, feel free to message me or leave a comment. You can also report innacuracies or missing information through Github's issue tracker if you are not familiar with how Git works.
 
