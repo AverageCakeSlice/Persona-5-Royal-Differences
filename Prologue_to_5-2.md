@@ -1,6 +1,6 @@
 
 # Introduction
-
+---
 ## Purpose
 
 I wanted to create a comprehensive list of every last change I could find between the old game and the new game both to help players discover things that they may have missed, and to give people making walkthroughs or optimal daily guides an outline that will save them some time when writing up their own material.
@@ -16,6 +16,7 @@ I also intend for this guide to be as spoiler-free as possible in regards to the
 I played Persona 5 and am currently playing through P5R on a PS4 Pro but have not tried the PS3 version of the game. I completed my first run and New Game+ back-to-back on 11/11/2019 and 1/12/2020 respectively, so the game is still fairly fresh on my mind. I spent ~250 hours on the base game, a good chunk of which was devoted to optimizing a perfect roster of personas for Joker in NG+. I have gotten the Platinum Trophy for Persona 5.
 
 # Changes (Prologue to 5/2)
+---
 
 ## **Technical**
 
@@ -75,6 +76,8 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * I believe this was in the previous game, but there is now a tutorial that points out that you can solve crossword puzzles at the far table (near the restroom) at LeBlanc on certain days without causing time to progress.
 * You can now explore Yongen-Jaya at night on 4/21 instead of 4/22.
 * After exploring the Metaverse, you can now perform activities within LeBlanc and your room, even without Kawakami's confidant bonuses.
+* You will now get text messages from part-time jobs on busy days, where you can potentially earn more social points and money.
+* On busy days, the convenience store will have a performance challenge much like the Beef Bowl Shop, where you will need to remember barcode locations and then recall them when scanning items.
 
 ### Palaces
 
@@ -90,6 +93,7 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * The grappling hook will now allow you to access new areas in palaces where hidden pathways or treasure might be found.
 * Will Seeds are new collectables that can be found in each palace. Finding one will restore a little bit of SP to the party, and finding all three of a palaces Will Seeds will reward the player with a unique accessory.
 * With the inclusion of the Will Seeds and grappling hook, a number of areas in each palace have been changed or added.
+* Boss fights have a few new sequences and attack animations, but are fairly similar to their counterparts in Persona 5.
 
 ### Combat
 
@@ -111,6 +115,8 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * Some accessories now have bonus skills attached to them, which can be used by any persona that the player has equipped.
 * If you find an item in a chest that is stronger than the one currently equipped on Joker or a party member, they will prompt you to let them equip it automatically.
 * The home shopping channel on Sundays now offers bundles of a variety of items, rather than a single item. You will now have to choose between different options. Keep in mind that you can only purchase one and will miss out on the other, so choose carefully!
+* All gear that can be washed at the laundromat now is described as "sooty". 
+* There are quite a few new types of gear, and old gear has been rebalanced as well.
 
 ### Personas & The Velvet Room
 
@@ -118,7 +124,7 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * There is a unique appearance for the Velvet Room loading screens.
 * You are no longer forced to execute Arsene during the fusion tutorial if you have already captured other personas.
 * There are quite a few new personas that have been added.
-* Some personas have had their arcana changed, and there are now a couple of new arcana.
+* Some personas have had their arcana changed, and there are now a few new arcana as well.
 * After you have officially infiltrated Kamoshida's palace for the first time, you will be able to access Challenge Battles in the Velvet Room by speaking to Justine.
 * Challenge battles allow you to earn rewards through battles that focus on specific mechanics like Baton Passes or Technical damage, battles that test your endurance, or battles with persona users from previous games.
 
@@ -127,7 +133,8 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * Tae Takemi's voice actress has been changed from Kirsten Potter to Abby Trott (who also voices Annette in Fire Emblem: Three Houses, one of my favorite VA's in the game)
 * Some of the confidant cutscenes have either had new dialog added, or have been overhauled completely.
 * Most of the confidant cutscenes now give more conversation opportunities to gain points towards the next rank-up.
-* Some confidant abilities have been altered, replaced, or shuffled around to unlock at different ranks than before. 
+* Some confidant abilities have been altered, replaced, or shuffled around to unlock at different ranks than before.
+* Tae Takemi's confidant now has a Guts prerequisite after level 1.
 
 ### Dialog & UI
 
@@ -156,6 +163,7 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * Map scrolling speed has been increased significantly.
 * Palace maps now have an indicator that keeps track of what Will Seeds you have collected so far.
 * The battle summary screen animations have been sped up significantly.
+* The animation that plays when going to the next day will be different when sending a calling card.
 
 ### Miscellaneous QoL
 
@@ -163,10 +171,8 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 
 # Disclaimer
 
-I have tried to document all of the changes that I have noticed from the base game, but there is a good chance that I have overlooked things and/or have noticed something "new" that was actually in the base game.  
- 
-Feel free to point out any errors in this post or contribute via the Github link, as this is intended to be a living document with frequent updates.
+I have tried to document all of the changes that I have noticed from the base game, but there is a good chance that I have overlooked things and/or have noticed something "new" that was actually in the base game.
 
 # Contributors
 
-I made this post by myself to hopefully motivate the community to help with documenting changes between the two games. If you would like to contribute, feel free to submit any changes at [this github repository](https://github.com/AverageCakeSlice/Persona-5-Royal-Differences), or, for small changes, feel free to message me or leave a comment. You can also report innacuracies or missing information through Github's issue tracker if you are not familiar with how Git/Github works.
+u/Fluxriflex
