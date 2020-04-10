@@ -35,6 +35,7 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 ### Sound Effects & Music
 
 * There seem to be quite a few more ambient sound effects that weren't in the base game (like clanking chains/cages in Kamoshida's palace), but I'm mostly playing with headphones now, so I could just be noticing them more.
+* There are 20-30 new songs that have been added to the soundtrack.
 
 ## **Gameplay**
 
@@ -70,7 +71,7 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * Cleaning up the bookshelf in your room on 4/18 or later will reward you with a few new books to read.
 * Cleaning out the rest of your room on 4/18 or later will also give you a CRT TV, although it does not include a tuner so you cannot receive TV blurbs from your room.
 * The CRT TV is now replaced with a DVD player at the secondhand shop.
-* I believe this was in the previous game, but there is now a tutorial that points out that you can solve crossword puzzles at the far table (near the restroom) at LeBlanc without causing time to progress.
+* I believe this was in the previous game, but there is now a tutorial that points out that you can solve crossword puzzles at the far table (near the restroom) at LeBlanc on certain days without causing time to progress.
 * You can now explore Yongen-Jaya at night on 4/21 instead of 4/22.
 
 ### Palaces
@@ -79,6 +80,11 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * Individual party members will now occasionally have things to say when in a safe room.
 * Morgana gives you a few starter items and infiltration tools when officially infiltrating Kamoshida's palace for the first time after 4/18.
 * You will not be able to snap to cover to hide yourself until about halfway through the first palace.
+* You can now loot nearby treasure chests and breakable objects while in cover.
+* Shadows have new lines of dialog that they will occasionally say when wandering around.
+* Treasure chests now make a glittery sound effect to let you know that one is nearby.
+* There are new visual and audio effects on safe room doors that make them more obvious.
+
 
 ### Combat
 
@@ -86,7 +92,8 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * _Take Over_ now plays during ambush attacks instead of _Last Surprise_. _Last Surprise_ will still play during normal encounters and enemy ambushes.
 * Baton passes are no longer linked to confidant ranks and can be used as soon as 4/18.
 * Baton pass bonuses now stack for each consecutive pass.
-* Performing a baton pass four times will now allow the final party member to use a skill without consuming any SP or HP. 
+* Performing a baton pass four times in a row will now allow the final party member to use a skill without consuming any SP or HP.
+* Enemies in each encounter seem to be much less homogenous than in the base game, possibly to encourage the player to take advantage of baton passes.
 
 ### Items & Equipment
 
@@ -131,6 +138,10 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * Confidant abilities that carry over from the previous game now have more descriptive text. (i.e. Ryuji's "Punk Talk" ability now specifies that it only works on _upbeat_-type shadows.)
 * Pressing R2 on a piece of equipment that has a passive ability or modifier will show a more detailed description of said effect.
 * There is now a new effect that indicates when a party member has been powered-up by a baton pass. It will change color from red->yellow->blue for each successive pass.
+* Instead of just auto-healing the group, pressing square while in a palace now gives the player the option to quickly use some common infiltration tools like smokescreens, Goho-M's, and Calming Aromas.
+* You can now target specific enemies and points of cover by using the d-pad while hiding. 
+* Map scrolling speed has been increased significantly.
+* The battle summary screen animations have been sped up significantly.
 
 ### Miscellaneous QoL
 
