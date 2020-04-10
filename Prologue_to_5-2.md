@@ -201,5 +201,5 @@ Due to Reddit's character limitations on posts, I am going to break these change
 # Links
 ---
 
-[GitHub Repo](https://github.com/AverageCakeSlice/Persona-5-Royal-Differences)
-[Next List](https://www.reddit.com/r/Persona5, "5/3 to 6/5")
+* [GitHub Repo](https://github.com/AverageCakeSlice/Persona-5-Royal-Differences)
+* [Next List](https://www.reddit.com/r/Persona5, "5/3 to 6/5")
