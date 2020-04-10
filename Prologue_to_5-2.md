@@ -28,7 +28,7 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 
 ### Saves and PSN
 
-* There appears to be some sort of an autosave function (indicated by a spinning combination dial with the text "SYSTEM DATA SAVING" on top), although the game does not explicitly point out any autosave functionality and I haven't seen it mentioned anywhere online. There does not seem to be a dedicated save slot for it when attempting to manually load a save.
+* There is an autosave feature to save progress towards Thieves Den rewards; it does not create a new save for you to return to. This progress is retained across playthroughs.
 * There is no longer a separate blue "network save" slot.
 * You can now take screenshots and video clips up to late December (I haven't tested this yet myself as I haven't gotten that far), after which they are blocked.
 * Most (but not all) of the achievements have been updated, and they generally seem to be much less completionistic than the previous game. There are no achievements for ranking up all confidants, getting all vending machine items, clearing all mementos requests, etc. You could probably complete all the achievements in a single playthrough as long as you're paying attention to getting them; I haven't seen any that require a NG+ run.
@@ -179,7 +179,6 @@ I have tried to document all of the changes that I have noticed from the base ga
 # Contributors
 
 u/Fluxriflex
-u/kn0bbulo
 u/TenebrisTempestas
 u/IndigoGamma
 
