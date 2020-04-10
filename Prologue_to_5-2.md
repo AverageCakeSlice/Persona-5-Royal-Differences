@@ -189,4 +189,6 @@ u/IndigoGamma,
 
  If you would like to contribute, feel free to submit any changes at this github repository, or, for small changes, feel free to message me or leave a comment. You can also report innacuracies or missing information through Github's issue tracker if you are not familiar with how Git works.
 
+Due to Reddit's character limitations on posts, I am going to break these change lists up into separate posts, with the deadline for each palace being the delimiting factor. This first one covers all changes found between the prologue and 5/2, which is the deadline for the first palace.
+
  Thank you so much for reading!
