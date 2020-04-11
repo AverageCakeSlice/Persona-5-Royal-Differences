@@ -140,6 +140,7 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 
 * Party members now cycle through three portrait angles (instead of just one in P5) with 2-3 expressions each. The general pattern is head down (sad, angry) head tilted up and back (surprised, happy) and then all of the normal portraits from P5. There don't seem to be any new portraits for non-party confidants or named characters (like Shiho)
 * Some of the NPC's are now voiced, like the parcel deliveryman that directs you to Cafe Leblanc when you are attempting to find Sojiro Sakurai's house.
+* There are a significant amount of localization fixes for both voice and text dialog as well.
 * The dialog indicators (i.e. "whisper whisper" "chatter" etc.) over NPC's that you can listen to or talk to will be grayed-out after interacting with them to let you know that you've already interacted with them.
 * Many interactions with confidants that were previously text-only are now voiced.
 * Phone conversations now show the portrait of the person you're talking to next to the text box.
