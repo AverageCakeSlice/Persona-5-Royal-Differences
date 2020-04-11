@@ -146,7 +146,8 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * Some of the NPC's are now voiced, like the parcel deliveryman that directs you to Cafe Leblanc when you are attempting to find Sojiro Sakurai's house.
 * The dialog indicators (i.e. "whisper whisper" "chatter" etc.) over NPC's that you can listen to or talk to will be grayed-out after interacting with them to let you know that you've already interacted with them.
 * Many interactions with confidants that were previously text-only are now voiced.
-* Phone conversations now show the portrait of the person you're talking to next to the text box.* The chat app on Joker's phone now has an animated background effect. (Falling flower petals right now, not sure if it changes as the seasons/weather changes yet)
+* Phone conversations now show the portrait of the person you're talking to next to the text box.
+* The chat app on Joker's phone now has an animated background effect. (Falling flower petals right now, not sure if it changes as the seasons/weather changes yet)
 * Shadows and other entities now have special effects on their dialog boxes when speaking.
 * Transition animations when moving between areas have changed due to the reduced loading times. Some of them (like the subway animation) will also change depending on the time of day/weather.
 * The glyphs for the Playstation button controls in the tutorial prompts are now colored and shaped like the actual button used instead of being a more generic red-colored character.
