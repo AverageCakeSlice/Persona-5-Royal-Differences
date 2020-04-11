@@ -85,7 +85,6 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * The prologue sequence at Sae Nijima's casino now has a tutorial sequence that shows the player how to use the grappling hook.
 * Individual party members will now occasionally have things to say when in a safe room.
 * Morgana gives you a few starter items and infiltration tools when officially infiltrating Kamoshida's palace for the first time after 4/18.
-* You will not be able to snap to cover to hide yourself until about halfway through the first palace.
 * You can now loot nearby treasure chests and breakable objects while in cover.
 * Shadows have new lines of dialog that they will occasionally say when wandering around.
 * Treasure chests now make a glittery sound effect to let you know that one is nearby.
@@ -123,9 +122,7 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 
 ### Personas & The Velvet Room
 
-* There are some dialog choices in a few of the initial conversations with Igor that require Guts to be leveled a bit in order to say them. I do not recall if these were in the base game or not.
 * There is a unique appearance for the Velvet Room loading screens.
-* You are no longer forced to execute Arsene during the fusion tutorial if you have already captured other personas.
 * There are quite a few new personas that have been added.
 * Some personas have had their arcana changed, and there are now a few new arcana as well.
 * After you have officially infiltrated Kamoshida's palace for the first time, you will be able to access Challenge Battles in the Velvet Room by speaking to Justine.
@@ -187,7 +184,9 @@ u/Fluxriflex,
 u/TenebrisTempestas,  
 u/kn0bbulo,  
 u/IndigoGamma,  
-u/heliphael  
+u/heliphael,  
+u/DerpDepartment,
+u/SSJ5Gogetenks
 
  If you would like to contribute, feel free to submit any changes at [this GitHub repository](https://github.com/AverageCakeSlice/Persona-5-Royal-Differences), or, for small changes, feel free to message me or leave a comment. You can also report innacuracies or missing information through GitHub's issue tracker if you are not familiar with how Git works.
 
