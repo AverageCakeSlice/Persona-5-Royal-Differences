@@ -50,7 +50,6 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * >!The prologue also has a new in-engine cutscene that introduces Kasumi Yoshizawa.!<
 * >!On 4/12, there is a new interactive cutscene that introduces the protagonist to Kasumi for the first time during a subway ride to school.!<
 * >!On 4/18, there is another interactive cutscene with Kasumi and Kawakami.!<
-* The anime cutscenes are still hot garbage.
 
 ### Daily Life
 
