@@ -68,7 +68,7 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * The batting cages now offer different activities based on the time of day. At night, you can swing as much as you want, but there are no prizes. Hitting three home runs at night earns you a coupon for a free daytime session.
 * Some books now have a prerequisite Knowledge level in order to read them. 
 * Studying at one of the booths in LeBlanc during bad weather will now increase the amount of knowledge points gained.
-* You can use the cleaning tools in the restroom of LeBlanc to improve your Kindness stat during the evenings.
+* You can use the cleaning tools in the restroom of LeBlanc to improve your Kindness stat during the evenings, and also gain points towards Sojiro's social link.
 * You can now sit and reflect on the toilet in LeBlanc, which will give you hints as to how close you are to improving each of your social stats.
 * Cleaning up the bookshelf in your room on 4/18 or later will reward you with a few new books to read.
 * Cleaning out the rest of your room on 4/18 or later will also give you a CRT TV, although it does not include a tuner so you cannot receive TV blurbs from your room.
