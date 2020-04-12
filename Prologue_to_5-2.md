@@ -57,7 +57,7 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * All of the classroom questions seem to have been changed.
 * Bad weather will improve the knowledge gained by studying in the library.
 * The tutorial for studying in the library also mentions that you may overhear students talking about you, which will reduce knowledge gained but increase guts. In P5, the description indicated that studying despite the noise would raise guts, I do not know how this has actually been adjusted, if at all.
-* "Speed Reader" is a new book available in the library that can reduce the number of times you need to read a book to finish it. It is checked out on 4/18 when you're first given time to do activities on your own, but I assume that it will probably be checked in on specific dates or after certain events occur.
+* "Speed Reader" is a new book available in the library that can reduce the number of times you need to read a book to finish it. It is checked out initially, but will be available on 7/1 near the deadline to Kaneshiro's palace.
 * Triple Seven (the convenience store) now pays ¥3500+ instead of ¥2800+, making it now pay more than the flower shop (¥3200+) per shift.
 * Rafflesia (the flower shop) now only offers afternoon shifts. Previously you could work there in the afternoons or evenings.
 * Working at Triple Seven now also improves your Charm stat.
@@ -186,8 +186,10 @@ u/TenebrisTempestas,
 u/kn0bbulo,  
 u/IndigoGamma,  
 u/heliphael,  
-u/DerpDepartment,
-u/SSJ5Gogetenks
+u/DerpDepartment,  
+u/SSJ5Gogetenks,  
+u/AkhasicRay
+
 
  If you would like to contribute, feel free to submit any changes at [this GitHub repository](https://github.com/AverageCakeSlice/Persona-5-Royal-Differences), or, for small changes, feel free to message me or leave a comment. You can also report innacuracies or missing information through GitHub's issue tracker if you are not familiar with how Git works.
 
