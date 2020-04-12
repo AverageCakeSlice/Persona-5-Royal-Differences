@@ -165,7 +165,7 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * Map scrolling speed has been increased significantly.
 * Palace maps now have an indicator that keeps track of what Will Seeds you have collected so far.
 * The battle summary screen animations have been sped up significantly.
-* The animation that plays when going to the next day will be different when sending a calling card.
+* The animation that plays when going to the next day is sped up. It will also be affected by the weather and on days when sending a calling card.
 
 ### Miscellaneous QoL
 
@@ -188,7 +188,8 @@ u/IndigoGamma,
 u/heliphael,  
 u/DerpDepartment,  
 u/SSJ5Gogetenks,  
-u/AkhasicRay
+u/AkhasicRay,  
+u/Fall_of_89
 
 
  If you would like to contribute, feel free to submit any changes at [this GitHub repository](https://github.com/AverageCakeSlice/Persona-5-Royal-Differences), or, for small changes, feel free to message me or leave a comment. You can also report innacuracies or missing information through GitHub's issue tracker if you are not familiar with how Git works.
