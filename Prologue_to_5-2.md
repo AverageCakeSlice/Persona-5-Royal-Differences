@@ -28,6 +28,7 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * Most if not all of the textures and models in the game appear to have been updated, and look a lot cleaner now that the game is not limited to the PS3's comparatively low texture cache size.
 * Less aliasing (read: "jagged edges") on in-game models and geometry (not sure if this is due to the PS4 Pro's  4k upscaling or an anti-aliasing post processing effect.)
 * Far fewer loading screens/reduced loading times.
+* There is now a Depth-of-Field effect present when speaking to some people, and when looking into the distance in large areas (Central Street has a noticeable example of this effect)
 
 ### Saves and PSN
 
