@@ -10,7 +10,7 @@ I wanted to create a comprehensive list of every last change I could find betwee
 
 This list is intended to document changes on a semi-specific level. I am simply listing things that I notice while playing through the game. I am being pretty meticulous with my documentation, but this list is not designed to document every single minor detail (such as individual stat changes to weapons and items or arcana-type changes to personas, for example). I am noting whatever I can as I go along and looking things up to verify that they have been changed if I can find a video or wiki article on the old game. 
   
-I also intend for this guide to be as spoiler-free as possible in regards to the story, so even though I am writing down all the new things I notice, I will leave information about cutscenes and story elements as vague as I can so as not to ruin the experience for anyone.
+I also intend for this guide to be as spoiler-free as possible in regards to the story, so even though I am writing down all the new things I notice, I will leave information about cutscenes and story elements as vague as I can so as not to ruin the experience for anyone. However, I will mention differences from the base game, so details about palaces/palace owners/characters may be included without spoiler tags. If you have not played Persona 5 at all before, I highly recommend playing through either P5 or P5R at least once before reading these lists.
 
 To keep things maintainable, I have broken up the list up into logical date spans from the last deadline of the previous palace to the deadline for the next palace; the first list covers the prologue to the deadline for Kamoshida's palace, the second from the day after Kamoshida's deadline to Madarame's deadline, and so on and so forth.
 
@@ -135,7 +135,7 @@ I played Persona 5 and am currently playing through P5R on a PS4 Pro but have no
 * Some of the confidant cutscenes have either had new dialog added, or have been overhauled completely.
 * Most of the confidant cutscenes now give more conversation opportunities to gain points towards the next rank-up.
 * Some confidant abilities have been altered, replaced, or shuffled around to unlock at different ranks than before.
-* Tae Takemi's confidant now has a Guts prerequisite after level 1.
+* Tae Takemi's confidant now has a Guts prerequisite after rank 1.
 
 ### Dialog & UI
 
